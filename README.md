@@ -1,6 +1,6 @@
 # SnapClass - AI Powered Attendance System
 
-A modern landing page for SnapClass built with Flask, HTML5, CSS3, and JavaScript.
+**A modern landing page for SnapClass built with Flask, HTML5, CSS3, and JavaScript.**
 
 ## 🚀 Features
 
