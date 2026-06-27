@@ -79,4 +79,4 @@ MIT License
 
 ---
 
-Made with ❤️ for educators
+Made with ❤️ by Nikhil Mali for educators
